@@ -198,9 +198,6 @@ If you use another dataset with the same columns, simply update the CSV file pat
 
 ---
 
-# 📷 Project Output
-
-
 
 # 📌 Future Improvements
 
