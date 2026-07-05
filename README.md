@@ -170,39 +170,6 @@ If you use another dataset with the same columns, simply update the CSV file pat
 
 ---
 
-# 🚀 How to Run
-
-### Clone Repository
-
-```bash
-git clone https://github.com/<your-github-username>/Retail-sales-analysis.git
-```
-
-### Navigate to Project
-
-```bash
-cd Retail-sales-analysis
-```
-
-### Install Dependencies
-
-```bash
-pip install pandas matplotlib notebook
-```
-
-### Launch Jupyter Notebook
-
-```bash
-jupyter notebook
-```
-
-Open
-
-```
-retail_sales_analysis.ipynb
-```
-
-Run all cells.
 
 ---
 
